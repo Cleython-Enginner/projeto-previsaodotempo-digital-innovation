@@ -1,4 +1,6 @@
-# Criando projeto para consultar a previsao do tempo via API 
+# Projeto realizado no bootcamp Avanade Fullstack Developer da Digital Innovation One 
+
+### Criando projeto para consultar a previsao do andamento via API
 
 Este projeto é parte do bootcamp Avanade Fullstack Developer da Digital Innovation One e consiste em consultar uma api de previsão de tempo do site https://openweathermap.org/.
 Este projeto utilizou conceitos de: 
